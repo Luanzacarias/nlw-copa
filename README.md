@@ -1,5 +1,5 @@
 <p align="center" >
-    <img alt="capa" src="./assets-readme/capa.jpg">
+    <img alt="capa" src="./.github/logo.svg">
 </p>
 
 
@@ -54,4 +54,4 @@ npx expo start
 ```
 
 ### + 
-- Caso queira mais informações, acesse: (https://github.com/rocketseat-education/nlw-copa-ignite/blob/main/README.md)[https://github.com/rocketseat-education/nlw-copa-ignite/blob/main/README.md]
+- Caso queira mais informações, acesse: https://github.com/rocketseat-education/nlw-copa-ignite/blob/main/README.md
